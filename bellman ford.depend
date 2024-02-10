@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1704373216 source:c:\users\hp\onedrive\سطح المكتب\front end\teorie des graphes\bellman ford\main.c
+	<stdio.h>
+	<limits.h>
+
+1705234966 source:c:\users\hp\desktop\teorie des graphes\bellman ford\main.c
+	<stdio.h>
+	<limits.h>
+	<string.h>
+
